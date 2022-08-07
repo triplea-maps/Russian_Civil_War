@@ -1,0 +1,6 @@
+map_name: Russian_Civil_War
+games:
+- {game_name: Russian Civil War (2 players), file_name: Russian Civil War (2 Players).xml}
+- {game_name: Russian Civil War (3 players), file_name: Russian Civil War (3 Players).xml}
+- {game_name: Russian Civil War (6 players), file_name: Russian Civil War (6 Players).xml}
+version: 0
